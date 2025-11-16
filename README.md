@@ -1,1 +1,101 @@
-# ramadani.github.io
+<!DOCTYPE html>
+<html lang="id">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>CV</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<div class="kotak">
+		<div class="judul">
+			<h1>CURRICULUM VITAE</h1>
+			<div class="foto">
+				<img src="C:\Users\ACER\Desktop\index.html kabel fo\foto putri/putrii.jpg" alt="Foto Putrii" width="66" height="88">				
+			</div>
+		</div>
+ 
+		<div class="data">			
+					<h2>Data Pribadi</h2>
+					<table>
+					<tr>
+						<th>Nama</th>
+						<th>:</th>
+						<td>Irdina putri ramadani</td>
+					</tr>
+					<tr>
+						<th>Tempat</th>
+						<th>:</th>
+						<td>Purbalingga</td>
+					</tr>
+					<tr>
+						<th>Tgl.Lahir</th>
+						<th>:</th>
+						<td>01 september 2009</td>
+					</tr>
+					<tr>
+						<th>Agama</th>
+						<th>:</th>
+						<td>Islam</td>
+					</tr>
+					<tr>
+						<th>Alamat</th>
+						<th>:</th>
+						<td>Timbang,kec.Kejobong,kab.Purbalingga,prov.jawa Tengah</td>
+					</tr>
+					<tr>
+						<th>Email</th>
+						<th>:</th>
+						<td>putriirdina125@gmail.com</td>
+					</tr>
+					<tr>
+						<th>No.HP</th>
+						<th>:</th>
+						<td>0858-1528-1716</td>
+					</tr>
+				</table>
+			</div>
+				
+		
+		<div class="blok">
+ 			<h2>Pendidikan</h2>			
+			<div>
+				<ul>
+					<li><b>2013 - 2015</b> Al-Manshuroh Timbang</li>
+					<li><b>2015 - 2021</b> MI Muhammadiyah Timbang</li>
+					<li><b>2021 - 2024</b> MTS 07 Purbalingga</li>
+					<li><b>2024 - 2027</b> SMK Negeri 1 Kejobong</li>
+				</ul>
+			</div>
+ 
+		</div>
+ 
+		<div class="blok">
+ 
+			<h2>Pengalaman</h2>
+			
+			<div>
+				<ul>
+					<li>
+					    <i>Magang di TRANS ARTHA TECHNOLOGY NUSANTARA</i> 
+					</li>
+				</ul>
+			</div>
+ 
+		</div>
+ 
+		<div class="blok">
+ 
+			<h2>Keahlian</h2>			
+			
+			<div>
+				<ul>
+					<li>Miicrosoft Office WORD</li>
+					<li>Bahasa Indonesia (aktif), Bahasa Inggris (pasif), Bahasa Jawa (aktif)</li>					
+				</ul>
+			</div>
+ 
+		</div>
+	</div>
+</body>
+</html>
